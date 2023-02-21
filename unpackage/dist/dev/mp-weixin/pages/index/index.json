@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "赛博木鱼",
+  "usingComponents": {
+    "player": "/components/player/player",
+    "muyu": "/components/muyu/muyu"
+  }
+}

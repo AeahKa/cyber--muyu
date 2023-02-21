@@ -1,0 +1,1 @@
+<view class="content"><view class="music"><player vue-id="8dd740cc-1" bind:__l="__l"></player></view><view class="main"><muyu vue-id="8dd740cc-2" bind:__l="__l"></muyu></view></view>

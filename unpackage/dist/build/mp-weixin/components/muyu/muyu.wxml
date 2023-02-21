@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['voice',['$event']]]]]}}" class="muyu" bindtap="__e"><image src="../../static/muyu.png" mode></image></view>

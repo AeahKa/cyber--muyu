@@ -1,0 +1,1 @@
+.content{position:relative;background-color:#000}.main{position:relative;display:flex;justify-content:center;align-items:center;button:0;height:100vh}.music{position:absolute;right:16px;top:16px;z-index:10}
